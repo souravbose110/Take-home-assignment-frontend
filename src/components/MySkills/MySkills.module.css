@@ -1,0 +1,53 @@
+.MySkills_Search_Add_container {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.MySkills_search_bar_container {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  width: 60%;
+  background-color: #f5f6f8;
+  border-radius: 24px;
+  padding-left: 2rem;
+}
+
+.MySkills_search_bar {
+  border: none;
+  padding-left: 1rem;
+  background-color: #f5f6f8;
+  width: 90%;
+}
+
+.MySkills_search_bar::placeholder {
+  font-size: 14px;
+}
+
+.MySkills_search_bar:focus {
+  outline: none;
+}
+
+.MySkills_search_icon {
+  height: 24px;
+  width: 24px;
+  color: #969696;
+}
+
+.MySkills_container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.MySkills_skill_container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 1rem;
+}

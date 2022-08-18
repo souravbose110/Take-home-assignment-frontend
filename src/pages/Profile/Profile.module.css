@@ -1,0 +1,15 @@
+.profile_items_container {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  height: 90%;
+  padding: 20px 30px 20px 30px;
+  background-color: #f5f6f8;
+  border-radius: 32px;
+}
+
+@media only screen and (max-width: 500px) {
+  .profile_items_container {
+    width: 95%;
+  }
+}

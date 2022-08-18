@@ -1,0 +1,13 @@
+.UserSkillContainer_container {
+  width: 48%;
+  background-color: #f5f6f8;
+  border-radius: 0 24px 24px 24px;
+  padding-top: 5px;
+  padding-left: 20px;
+  margin: 0.5rem 0;
+}
+
+.UserSkillContainer_skill {
+  font-size: 20px;
+  font-weight: 500;
+}

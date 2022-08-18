@@ -1,0 +1,18 @@
+.UserProjects_container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.UserProjects_title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #323338;
+}
+
+.UserProjects_project_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
