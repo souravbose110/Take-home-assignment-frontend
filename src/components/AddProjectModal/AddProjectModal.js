@@ -13,7 +13,7 @@ import {
 } from "@chakra-ui/react";
 import React, { useState } from "react";
 import { BsFillPlusCircleFill } from "react-icons/bs";
-import UserSkillModal from "../../UserSkillModal/UserSkillModal";
+import UserSkillModal from "../UserSkillModal/UserSkillModal";
 import { allUserSkills } from "../../utils/api/Api";
 import { useSelector } from "react-redux";
 import styles from "./AddProjectModal.module.css";

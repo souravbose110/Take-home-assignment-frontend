@@ -11,7 +11,7 @@ import {
     Box,
 } from "@chakra-ui/react";
 import React, { useState } from "react";
-import UserSkillBadgeItem from "../components/UserSkillBadgeItem/UserSkillBadgeItem";
+import UserSkillBadgeItem from "../UserSkillBadgeItem/UserSkillBadgeItem";
 
 const UserSkillModal = ({ children, userSkills }) => {
     const [loading, setLoading] = useState(false);
